@@ -1,3 +1,3 @@
 # UMLEditor
 
-This a school project i made, and UML editor with java, built with eclipse
+This a school project i made, an UML editor with java, built with eclipse
